@@ -1,4 +1,3 @@
-# RaihanKabir
 ### 🛠️ Technology Stack:
 
 **Languages:**
